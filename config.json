@@ -5,7 +5,7 @@
   "near_line_pct": 2.0,
   "chart_days": 365,
   "history": "5y",
-  "daily_summary": true,
+  "daily_summary": false,
   "backtest": {
     "amount": 10000,
     "history": "10y",
