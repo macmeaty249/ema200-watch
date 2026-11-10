@@ -9,18 +9,9 @@
   "backtest": {
     "amount": 10000,
     "history": "10y",
-"weights": {
-  "SPY": 30, 
-  "BRK-B": 10, 
-  "MSFT": 10, 
-  "AAPL": 10, 
-  "TTWO": 9,
-  "NVDA": 7, 
-  "GRMN": 7, 
-  "SONY": 6, 
-  "NTDOY": 6, 
-  "NKE": 5
-}
+    "weights": {
+      "SPY": 30, "BRK-B": 10, "MSFT": 10, "AAPL": 10, "TTWO": 9,
+      "NVDA": 7, "GRMN": 7, "SONY": 6, "NTDOY": 6, "NKE": 5
     }
   }
 }
