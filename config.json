@@ -1,0 +1,28 @@
+{
+  "ema_length": 200,
+  "confirm_days": 2,
+  "buffer_pct": 0.0,
+  "near_line_pct": 2.0,
+  "chart_days": 365,
+  "history": "5y",
+  "daily_summary": false,
+  "backtest": {
+    "amount": 10000,
+    "history": "10y",
+    "weights": {
+      "SPY": 25,
+      "BRK-B": 8,
+      "MSFT": 8,
+      "AAPL": 8,
+      "NVDA": 6,
+      "TTWO": 8,
+      "SONY": 6,
+      "NTDOY": 6,
+      "RBLX": 4,
+      "DECK": 6,
+      "GRMN": 6,
+      "NKE": 5,
+      "ONON": 4
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# One ticker per line. Add or remove lines any time.
+# Anything after a # is ignored.
+
+# Baseline
+SPY     # S&P 500 - compare your picks against the whole market
+
+# Gaming
+TTWO    # Take-Two (GTA 6)
+NTDOY   # Nintendo (US ADR)
+SONY    # Sony (PlayStation)
+RBLX    # Roblox
+
+# Running
+BRK-B   # Berkshire Hathaway (owns Brooks)
+DECK    # Deckers (Hoka)
+ONON    # On Holding
+GRMN    # Garmin
+NKE     # Nike
+
+# Big names
+NVDA    # Nvidia
+AAPL    # Apple
+MSFT    # Microsoft (also Xbox)
