@@ -8,12 +8,9 @@ SPY     # S&P 500 - compare your picks against the whole market
 TTWO    # Take-Two (GTA 6)
 NTDOY   # Nintendo (US ADR)
 SONY    # Sony (PlayStation)
-RBLX    # Roblox
 
 # Running
 BRK-B   # Berkshire Hathaway (owns Brooks)
-DECK    # Deckers (Hoka)
-ONON    # On Holding
 GRMN    # Garmin
 NKE     # Nike
 
